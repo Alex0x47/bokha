@@ -21,7 +21,7 @@ enable_smart_app_banner                   : false                               
 # Information About Yourself
 your_name                                 : Jordi Bruin                                
 your_link                                 : https://www.jordibruin.com
-your_city                                 : Huisquarantaine                                
+your_city                                 : Huisquaranataine                                
 email_address                             : jordi@goodsnooze.com
 facebook_username                         : jordibruin                                       
 instagram_username                        : 
@@ -47,7 +47,7 @@ features                                  :
     fontawesome_icon_name                 : list
 
   - title                                 : Ook voor Vegans
-    description                           : Lists of animal based e-numbers are also included
+    description                           : Dankzij categorieën met dierlijke e-nummers  
     fontawesome_icon_name                 : paw
 
   - title                                 : # New Feature Title
