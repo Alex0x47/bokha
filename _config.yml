@@ -42,6 +42,10 @@ features                                  :
     description                           : For the most common allergy groups (glutes, lactose, nuts, egg etc).
     fontawesome_icon_name                 : utensils
 
+  - title                                 : Works in multiple languages
+    description                           : The current version of the app supports Dutch word. English and French will be added this weekend, stay tuned!
+    fontawesome_icon_name                 : utensils
+
   - title                                 : Personalize
     description                           : Create your own groups with your own words to scan for.
     fontawesome_icon_name                 : list
