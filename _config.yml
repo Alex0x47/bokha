@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Food Scanner                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Bekijk snel welke allergenen en ingredienten er in een product zitten.
+app_description                           : Easily check which allergens and ingredients a product contains
 
 enable_smart_app_banner                   : false                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -21,7 +21,7 @@ enable_smart_app_banner                   : false                               
 # Information About Yourself
 your_name                                 : Jordi Bruin                                
 your_link                                 : https://www.jordibruin.com
-your_city                                 : Huisquaranataine                                
+your_city                                 : Huisquarantaine                                
 email_address                             : jordi@goodsnooze.com
 facebook_username                         : jordibruin                                       
 instagram_username                        : 
@@ -35,19 +35,19 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Realtime Scanner
-    description                           : Gevonden woorden worden live getoond over het camerabeeld heen. Snel en duidelijk.
+    description                           : Found words are show live on top of the camera view. This makes it fast and easy to spot them.
     fontawesome_icon_name                 : camera
     
-  - title                                 : Ingebouwde woordenlijsten
-    description                           : Voor de meest voorkomende allergie groepen (gluten, lactose, noten, kippen-ei etc)
+  - title                                 : Built in word lists
+    description                           : For the most common allergy groups (glutes, lactose, nuts, egg etc).
     fontawesome_icon_name                 : utensils
 
-  - title                                 : Personaliseer
-    description                           : Maak eigen allergie groepen aan met eigen woordenlijsten
+  - title                                 : Personalize
+    description                           : Create your own groups with your own words to scan for.
     fontawesome_icon_name                 : list
 
-  - title                                 : Ook voor Vegans
-    description                           : Dankzij categorieën met dierlijke e-nummers  
+  - title                                 : Also for Vegans
+    description                           : Thanks to categories for meat and animal based e-numbers.
     fontawesome_icon_name                 : paw
 
   - title                                 : # New Feature Title
