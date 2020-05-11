@@ -35,7 +35,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Realtime Scanner
-    description                           : Found words are show live on top of the camera view. This makes it fast and easy to spot them.
+    description                           : The app scans for your personalized word-set and displays them live on top of the camera view when they are found in a product.
     fontawesome_icon_name                 : camera
     
   - title                                 : Built in word lists
