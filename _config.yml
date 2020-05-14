@@ -1,5 +1,5 @@
 #page title
-page_title                                : Food Scanner                                      # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Allergies & Vegan Food Scanner  # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                :                                 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -10,9 +10,9 @@ presskit_download_link                    :                                     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Food Scanner                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : Allergies & Vegan Food Scanner
 app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Easily check for allergens and ingredients in products
+app_description                           : Easily check for allergens and ingredients in the products you eat
 
 enable_smart_app_banner                   : false                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -43,7 +43,7 @@ features                                  :
     fontawesome_icon_name                 : utensils
 
   - title                                 : Works in multiple languages
-    description                           : The current version of the app supports Dutch word. English and French will be added this weekend, stay tuned!
+    description                           : The current version of the app supports English, Dutch and French. More languages are being added every week on saturday.
     fontawesome_icon_name                 : utensils
 
   - title                                 : Personalize
