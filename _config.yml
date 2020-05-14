@@ -38,7 +38,7 @@ features                                  :
     description                           : The app scans for your personalized word-set and displays them live on top of the camera view when they are found in a product.
     fontawesome_icon_name                 : camera
     
-  - title                                 : Built in word lists
+  - title                                 : Built-in word lists
     description                           : For the most common allergy groups (glutes, lactose, nuts, egg etc).
     fontawesome_icon_name                 : utensils
 
