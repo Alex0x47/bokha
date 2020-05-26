@@ -39,7 +39,7 @@ features                                  :
     fontawesome_icon_name                 : camera
     
   - title                                 : Built-in word lists
-    description                           : For the most common allergy groups (glutes, lactose, nuts, egg etc).
+    description                           : For the most common allergy groups (gluten, peanuts, lupine, lactose, nuts, egg etc).
     fontawesome_icon_name                 : utensils
 
   - title                                 : Works in multiple languages
