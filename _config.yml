@@ -34,23 +34,23 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Realtime Scanner
-    description                           : The app scans for your personalized word-set and displays them live on top of the camera view when they are found in a product.
+  - title                                 : 📷 Realtime Scanner
+    description                           : Soosee scans and displays the ingredients you've enabled live on top of the camera view when they are found in a product.
     fontawesome_icon_name                 : camera
     
-  - title                                 : Built-in word lists
-    description                           : For the most common allergy groups (gluten, peanuts, lupine, lactose, nuts, egg etc).
+  - title                                 : 📒 Built-in word lists
+    description                           : For the most common allergies, religions and diets.
     fontawesome_icon_name                 : utensils
 
-  - title                                 : Works in multiple languages
-    description                           : The current version of the app supports English, Dutch, German, French, Portuguese, Italian and Chinese. More languages are being added every week on saturday.
-    fontawesome_icon_name                 : utensils
+  - title                                 : 🌎 Useful around the world
+    description                           : Soosee scans for allergies in Dutch, English, German, French, Portugese, Italian, Japanese, Spanish, Hungarian, Swedish, Finnish, Polish, Danish, Russian,Norwegian,Turkish, Ukraine, Czech and Lithuanian. With more to come!
+    fontawesome_icon_name                 : flag
 
-  - title                                 : Personalize
-    description                           : Create your own groups with your own words to scan for.
+  - title                                 : 💡 Add your own groups
+    description                           : Create lists for your son's allergies or the ingredients that suit your diet.
     fontawesome_icon_name                 : list
 
-  - title                                 : Also for Vegans
+  - title                                 : 🌱 Great for Vegans!
     description                           : Thanks to categories for meat and animal based e-numbers.
     fontawesome_icon_name                 : seedling
 
