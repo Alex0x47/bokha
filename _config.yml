@@ -42,6 +42,10 @@ features                                  :
     description                           : For the most common allergies, religions and diets.
     fontawesome_icon_name                 : utensils
 
+  - title                                 : 🌱 Great for Vegans!
+    description                           : Thanks to categories for meat and animal based e-numbers.
+    fontawesome_icon_name                 : seedling
+
   - title                                 : 🌎 Useful around the world
     description                           : Soosee scans for allergies in Dutch, English, German, French, Portugese, Italian, Japanese, Spanish, Hungarian, Swedish, Finnish, Polish, Danish, Russian,Norwegian,Turkish, Ukraine, Czech and Lithuanian. With more to come!
     fontawesome_icon_name                 : flag
@@ -50,9 +54,7 @@ features                                  :
     description                           : Create lists for your son's allergies or the ingredients that suit your diet.
     fontawesome_icon_name                 : list
 
-  - title                                 : 🌱 Great for Vegans!
-    description                           : Thanks to categories for meat and animal based e-numbers.
-    fontawesome_icon_name                 : seedling
+  
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
