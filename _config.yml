@@ -34,24 +34,24 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : 📷 Realtime Scanner
+  - title                                 : Realtime Scanner
     description                           : Soosee scans and displays the ingredients you've enabled live on top of the camera view when they are found in a product.
     fontawesome_icon_name                 : camera
     
-  - title                                 : 📒 Built-in word lists
+  - title                                 : Built-in word lists
     description                           : For the most common allergies, religions and diets.
     fontawesome_icon_name                 : utensils
 
-  - title                                 : 🌱 Great for Vegans!
+  - title                                 : Great for Vegans!
     description                           : Thanks to categories for meat and animal based e-numbers.
     fontawesome_icon_name                 : seedling
 
-  - title                                 : 🌎 Useful around the world
+  - title                                 : Useful around the world
     description                           : Soosee scans for allergies in Dutch, English, German, French, Portugese, Italian, Japanese, Spanish, Hungarian, Swedish, Finnish, Polish, Danish, Russian,Norwegian,Turkish, Czech and Lithuanian. With more to come!
     fontawesome_icon_name                 : flag
 
-  - title                                 : 💡 Add your own groups
-    description                           : Create lists for your son's allergies or the ingredients that suit your diet.
+  - title                                 : Add your own groups
+    description                           : Create lists that highlight the ingredients that you don't want to consume.
     fontawesome_icon_name                 : list
 
   
