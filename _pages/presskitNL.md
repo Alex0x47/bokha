@@ -7,9 +7,6 @@ include_in_header: false
 # Perskit
 
 <br>
-
-### `Latest`
-# **Version 2.0**
 Jordi’s vorige vriendin was altijd allergisch voor sinaasappels. Iedere keer als hij boodschappen voor haar ging doen moest hij daarom kijken op de ingrediëntenlijst of er geen sinaasappels in het product verwerkt waren. Dit moest makkelijker!
 
 Terwijl hij de afgelopen maanden door Corona thuis zat heeft Jordi een app gebouwd waarmee je snel de ingrediëntenlijst kunt scannen op de voedingsmiddelen waar je allergisch voor bent of die je niet wil eten. Je kunt het nu gebruiken voor allerlei allergieën of dieetwensen. 
@@ -18,7 +15,7 @@ Begin April hebben we de app laten testen door een grote groep mensen met allerg
 
 Dankzij onze reisvrienden en testers is de app zelf nu in vijftien talen vertaald, van Deens tot Hebreeuws en van Spaans tot Chinees. Ook zijn de meeste woordenlijsten momenteel in twaalf talen bruikbaar. Als we straks weer op reis mogen, is de app dus ook ontzettend handig als je opeens in een buitenlandse supermarkt producten wil controleren.
 
-________
+<br>
 
 ### **Wie maakt Soosee**
 Soosee wordt gemaakt door Jordi Bruin, die als beginnend zzp’er de coronacrisis als kans aangreep om een persoonlijk probleem op te lossen. Maartje Derks werd super enthousiast en besloot samen met haar hond Fladder 🐕 te helpen. Fladder is aangehaakt vanuit zijn veganistische levensstijl en expertise 😉. 
