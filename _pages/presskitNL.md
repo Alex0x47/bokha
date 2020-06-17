@@ -39,8 +39,6 @@ ____________________________________________
 Screenshots, foto’s en video’s van de app staan [hier]
 (https://drive.google.com/drive/folders/1tHSfSRd246bI8LvtSiG78yofvd-EkIXf?usp=sharing)
 
-[![](http://img.youtube.com/vi/_olxi98dTJU/0.jpg)](http://www.youtube.com/watch?v=_olxi98dTJU "")
-
 En hier op [youtube](https://youtu.be/_olxi98dTJU) een korte demonstratie video om in een artikel te embedden
 
 Virale post op [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6669536556455399424) (300.000+ views)
