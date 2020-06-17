@@ -17,7 +17,7 @@ Soosee maakt gebruik van de nieuwste technieken op het gebied van tekstherkennin
 
 ### Op vakantie
 
-Het is in Nederland al een hele opgave om te achterhalen welke ingrediënten in producten zitten, laat staan in het buitenland. Om iedereen die om welke reden in het buitenland vertoeft ook te helpen, zijn de woordenlijst waar de app gebruik van maakt inmiddels vertaald in het meer dan 12 talen, van Frans tot Portugees en van Fins tot Turks. Iedere twee weken worden de woordenlijsten geupdate met feedback van gebruikers van over de hele wereld.
+Het is in Nederland al een hele opgave om te achterhalen welke ingrediënten in producten zitten, laat staan in het buitenland. Om vakantiegangers in het buitenland te helpen, zijn de woordenlijst waar de app gebruik van maakt inmiddels vertaald in het meer dan 12 talen, van Frans tot Portugees en van Fins tot turks. Iedere twee weken worden de woordenlijsten geupdate met feedback van gebruikers van over de hele wereld.
 
 ### Ingrediëntendoolhof
 
