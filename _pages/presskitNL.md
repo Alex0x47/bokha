@@ -25,10 +25,12 @@ Hij vervolgt: “Het idee voor de app speelde zodoende al een tijd door mijn hoo
 Om te achterhalen welke ingrediënten in producten zitten die in Nederland worden verkocht is al een hele opgave, laat staan in het buitenland. Om vakantiegangers of iedereen die om welke reden in het buitenland vertoeft ook te helpen, zijn de woordenlijst waar de app gebruik van maakt inmiddels vertaald in het: Engels, Frans, Duits, Italiaans, Pools, Portugees, Japans, Spaans, Hongaars, Fins Deens, Noors, Turks en Litouws.
 
 
-![alt text](../assets/screenshots/screenshot1.png =300x "Screenshot 1" )
+![alt text](../assets/screenshots/screenshot1.png =100x20 "Screenshot 1")
 ![alt text](../assets/screenshots/screenshot2.png =300x "Screen 2" )
 ![alt text](../assets/screenshots/screenshot3.png =300x "Logo Title Text 1" )
 ![alt text](../assets/screenshots/screenshot4.png =300x "Logo Title Text 1" )
+
+![alt text](https://www.soosee.app/assets/screenshots/screenshot2.png=300x "Logo Title Text 1" )
 
 ____________________________________________
 
