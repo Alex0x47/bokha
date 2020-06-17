@@ -23,7 +23,7 @@ Hij vervolgt: “Het idee voor de app speelde zodoende al een tijd door mijn hoo
 
 ### Op vakantie
 
-Om te achterhalen welke ingrediënten in producten zitten die in Nederland worden verkocht is al een hele opgave, laat staan in het buitenland. Om vakantiegangers of iedereen die om welke reden in het buitenland vertoeft ook te helpen, zijn de woordenlijst waar de app gebruik van maakt inmiddels vertaald in het: Engels, Frans, Duits, Italiaans, Pools, Portugees, Japans, Spaans, Hongaars, Fins Deens, Noors, Turks en Litouws.
+OHet is al een hele opgave om in Nederland te achterhalen welke ingredienten in producten zitten, laat staan in het buitenland. Om vakantiegangers in het buitenland te helpen, zijn de woordenlijst waar de app gebruik van maakt inmiddels vertaald in het meer dan 12 talen, van Frans tot Portugees en van Fins tot turks.
 
 Soosee is vanaf nu te gratis te downloaden in Nederland en België, de internationale lancering vind plaats op 1 juli. We vinden dat Soosee voor iedereen beschikbaar moet zijn. Wel kunnen gebruikers Soosee Supporter worden, en ons helpen zodat wij fulltime de app kunnen verbeteren. Daarnaast krijgen Soosee Supporters een aantal handige extra mogelijkheden waardoor de app net even handiger werkt.
 
