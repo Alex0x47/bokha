@@ -106,7 +106,7 @@ Soosee is ook handig als:
 Dankzij onze internationale testers is de app al in vijftien talen vertaald. Van Deens tot Hebreeuws en van Spaans tot Mandarijn. De woordenlijsten voor de verschillende allergieën en intoleranties zijn momenteel bovendien in twaalf talen te gebruiken
 
 Op dit moment is de app te gebruiken in 14 verschillende talen.
-Engels, Nederlands, Frans, Duits, Italiaans, Posols, Portugees, Spaans, Hongaars, Fins, Deens, Noors, Turks, Litouws.  
+Engels, Nederlands, Frans, Duits, Italiaans, Pools, Portugees, Spaans, Hongaars, Fins, Deens, Noors, Turks, Litouws.  
 
 Kortom, als we straks onze reiskoffers straks mogen inpakken, is de Soosee-app ook in het buitenland ontzettend handig om producten snel en gemakkelijk te controleren op de ingrediënten van jouw allergie, intolerantie of voorkeur.
 
