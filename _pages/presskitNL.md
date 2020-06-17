@@ -43,14 +43,13 @@ https://apps.apple.com/us/app/soosee-ar-ingredient-scanner/id1502026145?ls=1
 
 ____________________________________________
 
- Noot voor de redactie, niet bestemd voor publicatie:
+ Noot voor de redactie, Google Drive link niet bestemd voor publicatie:
 
 Screenshots, foto’s en video’s van de app staan [hier](https://drive.google.com/drive/folders/1tHSfSRd246bI8LvtSiG78yofvd-EkIXf?usp=sharing)
 
 En [hier](https://youtu.be/_olxi98dTJU) op YouTube (https://youtu.be/_olxi98dTJU) een korte demonstratie video om in een artikel te embedden
 
 Virale post op [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6669536556455399424) (300.000+ views)
-
 
 Neem voor meer informatie, beeldmateriaal en/of interviewaanvragen contact op met: 
 
@@ -107,7 +106,7 @@ Soosee is ook handig als:
 Dankzij onze internationale testers is de app al in vijftien talen vertaald. Van Deens tot Hebreeuws en van Spaans tot Mandarijn. De woordenlijsten voor de verschillende allergieën en intoleranties zijn momenteel bovendien in twaalf talen te gebruiken
 
 Op dit moment is de app te gebruiken in 14 verschillende talen.
-Engels, Nederlands, Frans, Duits, Italiaans, Pools, Portugees, Spaans, Hongaars, Fins, Deens, Noors, Turks, Litouws.  
+Engels, Nederlands, Frans, Duits, Italiaans, Posols, Portugees, Spaans, Hongaars, Fins, Deens, Noors, Turks, Litouws.  
 
 Kortom, als we straks onze reiskoffers straks mogen inpakken, is de Soosee-app ook in het buitenland ontzettend handig om producten snel en gemakkelijk te controleren op de ingrediënten van jouw allergie, intolerantie of voorkeur.
 
