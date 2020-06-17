@@ -6,13 +6,12 @@ include_in_header: false
 
 
 **Laatst geupdate 17 juni 2020**  
-August 1 2019
 
 # Soosee App helpt mensen met een allergie of intolerantie uit de brand
 
-## Iedereen die een bepaalde voedselallergie of -intolerantie heeft, is gewend om verpakkingen van producten door te speuren om te checken welke ingrediënten er precies in zitten. Wat nou als er een app is die dit allemaal voor jou doet?
-
 ![alt text](https://www.soosee.app/assets/screenshots/presskit.jpg "Logo Title Text 1" )
+
+## Iedereen die een bepaalde voedselallergie of -intolerantie heeft, is gewend om verpakkingen van producten door te speuren om te checken welke ingrediënten er precies in zitten. Wat nou als er een app is die dit allemaal voor jou doet?
 
 Soosee maakt gebruik van de nieuwste technieken op het gebied van tekstherkenning en Augmented Reality om ingrediënten te herkennen en uit te lichten. Die linkt hij aan specifieke woorden in woordenlijsten die gerelateerd zijn aan bepaalde allergieën of intoleranties. Op die manier is het ook mogelijk om bijvoorbeeld dierlijke E-nummers te herkennen of om te zien of er palmolie aan een product is toegevoegd.
 
@@ -20,7 +19,7 @@ Soosee maakt gebruik van de nieuwste technieken op het gebied van tekstherkennin
 
 Bedenker en ontwikkelaar van de app, Jordi Bruin, kwam op het idee omdat hij zich vaker door een ingrediënten doolhof moest wurmen. Bruin over de aanleiding: “Als ik voor een vriendin van mij met een allergie voor citrusvruchten wel eens boodschappen doe, dan blijft het een uitdaging om vat te krijgen op eindeloze ingrediënten. Dat moet makkelijker kunnen dacht ik.”
 
-Hij vervolgt: “Het idee voor de app speelde zodoende al een tijd door mijn hoofd en de coronaperiode heb ik gebruikt om ermee door te pakken. Een groep testers heeft de afgelopen maanden met de app gewerkt. Met hun hulp is de app gefinetuned en inmiddels al voor 15 verschillende talen beschikbaar.”
+Hij vervolgt: “Het idee voor de app speelde zodoende al een tijd door mijn hoofd en toen ik aan het begin van de coronaperiode thuis kwam te zitten besloot ik om mijn tijd nuttig te gebruiken en door te pakken. Samen met meer dan 2.500 testers heb ik de afgelopen maanden aan Soosee gewerkt, en dankzij hun hulp is de app gefinetuned en inmiddels al voor 15 verschillende talen beschikbaar.”
 
 ### Op vakantie
 
@@ -41,18 +40,23 @@ ____________________________________________
 
 Screenshots, foto’s en video’s van de app staan [hier](https://drive.google.com/drive/folders/1tHSfSRd246bI8LvtSiG78yofvd-EkIXf?usp=sharing)
 
-En hier op [youtube](https://youtu.be/_olxi98dTJU) een korte demonstratie video om in een artikel te embedden
+En hier op [YouTube](https://youtu.be/_olxi98dTJU) een korte demonstratie video om in een artikel te embedden
 
 Virale post op [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6669536556455399424) (300.000+ views)
 
+
 Neem voor meer informatie, beeldmateriaal en/of interviewaanvragen contact op met: 
 
-Jordi Bruin
+### Jordi Bruin
+
 0625329486
+
 jordi@soosee.app
 
-Maartje Derks 
+### Maartje Derks 
+
 0638053348
+
 maartje@soosee.app
 
 
