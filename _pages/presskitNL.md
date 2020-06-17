@@ -70,7 +70,7 @@ maartje@soosee.app
 
 Zit hier wel of géén sinaasappel in? En citroenzuur? Je staat er misschien niet zo snel bij stil, maar mensen met een citrusvrucht allergie moeten bij vrijwel elk product dat ze willen kopen eerst op de ingrediëntenlijst kijken. Je weet immers maar nooit! 
 
-Zo ook Soosee’s Jordi. Hij liep dikwijls door de supermarkt om boodschappen te doen voor een goede vriendin met een allergie voor sinaasappels. Hij kreeg maar geen vat op die eindeloze ingrediëntenlijsten. Dit moest makkelijker kunnen!
+Zo ook Soosee’s Jordi. Hij liep dikwijls door de supermarkt om boodschappen te doen voor zijn vriendin met een allergie voor sinaasappels. Hij kreeg maar geen vat op die eindeloze ingrediëntenlijsten. Dit moest makkelijker kunnen!
 
 Het idee zat al even in zijn hoofd en dus greep Jordi de corona-periode aan om het uit te werken. Een app die mensen helpt bij deze allergie-ellende! Een app waarmee je je snel en gemakkelijk door die kleine lettertjes op een ingrediëntenlijst heen slaat. Een app die woorden scant, uitlicht en linkt aan jouw specifieke allergie, of dat wat jij niet wilt eten. Je kunt Soosee gebruiken bij verschillende allergieën, intoleranties of dieetwensen.
 
