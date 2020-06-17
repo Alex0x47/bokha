@@ -11,21 +11,25 @@ include_in_header: false
 
 ![alt text](https://www.soosee.app/assets/screenshots/presskit.jpg "Logo Title Text 1" )
 
-## Iedereen die een bepaalde voedselallergie of -intolerantie heeft, is gewend om verpakkingen van producten door te speuren om te checken welke ingrediënten er precies in zitten. Wat nou als er een app is die dit allemaal voor jou doet?
+## Wie een voedselallergie of -intolerantie heeft, is gewend om verpakkingen af te speuren om te checken welke ingrediënten er precies in zitten. Wat als er een app is die dit voor jou doet?
 
-Soosee maakt gebruik van de nieuwste technieken op het gebied van tekstherkenning en Augmented Reality om ingrediënten te herkennen en uit te lichten. Die linkt hij aan specifieke woorden in woordenlijsten die gerelateerd zijn aan bepaalde allergieën of intoleranties. Op die manier is het ook mogelijk om bijvoorbeeld dierlijke E-nummers te herkennen of om te zien of er palmolie aan een product is toegevoegd.
-
-### Ingrediënten doolhof
-
-Bedenker en ontwikkelaar van de app, Jordi Bruin, kwam op het idee omdat hij zich vaker door een ingrediënten doolhof moest wurmen. Bruin over de aanleiding: “Als ik voor een vriendin van mij met een allergie voor citrusvruchten wel eens boodschappen doe, dan blijft het een uitdaging om vat te krijgen op eindeloze ingrediënten. Dat moet makkelijker kunnen dacht ik.”
-
-Hij vervolgt: “Het idee voor de app speelde zodoende al een tijd door mijn hoofd en toen ik aan het begin van de coronaperiode thuis kwam te zitten besloot ik om mijn tijd nuttig te gebruiken en door te pakken. Samen met meer dan 2.500 testers heb ik de afgelopen maanden aan Soosee gewerkt, en dankzij hun hulp is de app gefinetuned en inmiddels al voor meer dan 12 verschillende talen beschikbaar.”
+Soosee maakt gebruik van de nieuwste technieken op het gebied van tekstherkenning en Augmented Reality om woorden te herkennen en uit te lichten. De app wijst je niet alleen op ingrediënten waarvoor je allergisch bent, maar ook op bijvoorbeeld dierlijke E-nummers of palmolie. Soosee is daardoor ideaal voor iedereen die bewust wilt eten. 
 
 ### Op vakantie
 
-OHet is al een hele opgave om in Nederland te achterhalen welke ingredienten in producten zitten, laat staan in het buitenland. Om vakantiegangers in het buitenland te helpen, zijn de woordenlijst waar de app gebruik van maakt inmiddels vertaald in het meer dan 12 talen, van Frans tot Portugees en van Fins tot turks.
+Het is in Nederland al een hele opgave om te achterhalen welke ingrediënten in producten zitten, laat staan in het buitenland. Om iedereen die om welke reden in het buitenland vertoeft ook te helpen, zijn de woordenlijst waar de app gebruik van maakt inmiddels vertaald in het meer dan 12 talen, van Frans tot Portugees en van Fins tot Turks. Iedere twee weken worden de woordenlijsten geupdate met feedback van gebruikers van over de hele wereld.
 
-Soosee is vanaf nu te gratis te downloaden in Nederland en België, de internationale lancering vind plaats op 1 juli. We vinden dat Soosee voor iedereen beschikbaar moet zijn. Wel kunnen gebruikers Soosee Supporter worden, en ons helpen zodat wij fulltime de app kunnen verbeteren. Daarnaast krijgen Soosee Supporters een aantal handige extra mogelijkheden waardoor de app net even handiger werkt.
+### Ingrediëntendoolhof
+
+Jordi Bruin, bedenker en ontwikkelaar van de app, kwam op het idee omdat ook hij zich regelmatig door een ingrediëntendoolhof moest wurmen. “Als ik boodschappen doe voor een vriendin met een allergie voor citrusvruchten, dan blijft het een uitdaging om vat te krijgen op de eindeloze rits aan ingrediënten. Dat moet makkelijker kunnen, dacht ik.”
+
+Hij vervolgt: “Het idee voor de app speelde zodoende al een tijd door mijn hoofd en toen ik aan het begin van de coronaperiode thuis kwam te zitten besloot ik om mijn tijd nuttig te gebruiken en door te pakken. Samen met meer dan 2.500 testers heb ik de afgelopen maanden aan Soosee gewerkt, en dankzij hun hulp is de app gefinetuned en inmiddels al voor meer dan 12 verschillende talen beschikbaar.”
+
+### Nu te downloaden voor iPhone
+
+Soosee is vanaf donderdag 18 juni gratis te downloaden in Nederlandse en Belgische App Store, de internationale lancering vind plaats op 1 juli. In Juli wordt de Android versie uitgebracht.
+
+We vinden dat Soosee voor iedereen beschikbaar moet zijn. Wel kunnen gebruikers Soosee Supporter worden, en ons helpen zodat wij fulltime de app kunnen verbeteren. Daarnaast krijgen Soosee Supporters een aantal handige extra mogelijkheden waardoor de app net even handiger werkt.
 
 [![Foo](https://www.soosee.app/assets/appstore.png)](https://apps.apple.com/us/app/soosee-ar-ingredient-scanner/id1502026145?ls=1)
 
