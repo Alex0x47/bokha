@@ -31,9 +31,10 @@ Soosee is vanaf donderdag 18 juni gratis te downloaden in Nederlandse en Belgisc
 
 We vinden dat Soosee voor iedereen beschikbaar moet zijn. Wel kunnen gebruikers Soosee Supporter worden, en ons helpen zodat wij fulltime de app kunnen verbeteren. Daarnaast krijgen Soosee Supporters een aantal handige extra mogelijkheden waardoor de app net even handiger werkt.
 
-[![Foo](https://www.soosee.app/assets/appstore.png)](https://apps.apple.com/us/app/soosee-ar-ingredient-scanner/id1502026145?ls=1)
+[![Foo](https://www.soosee.app/assets/appstore3.png)](https://apps.apple.com/us/app/soosee-ar-ingredient-scanner/id1502026145?ls=1)
 
-App Store Download URL
+###App Store Download URL
+
 https://apps.apple.com/us/app/soosee-ar-ingredient-scanner/id1502026145?ls=1
 
 ![alt text](https://www.soosee.app/assets/screenshots/presskit2.jpg "Logo Title Text 1" )
@@ -44,7 +45,7 @@ ____________________________________________
 
 Screenshots, foto’s en video’s van de app staan [hier](https://drive.google.com/drive/folders/1tHSfSRd246bI8LvtSiG78yofvd-EkIXf?usp=sharing)
 
-En hier op [YouTube](https://youtu.be/_olxi98dTJU) een korte demonstratie video om in een artikel te embedden
+En [hier](https://youtu.be/_olxi98dTJU) op YouTube (https://youtu.be/_olxi98dTJU) een korte demonstratie video om in een artikel te embedden
 
 Virale post op [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6669536556455399424) (300.000+ views)
 
