@@ -65,6 +65,11 @@ jordi@soosee.app
 
 maartje@soosee.app
 
+Social media kanalen
+[Twitter](https://twitter.com/sooseeapp) https://twitter.com/sooseeapp
+[Instagram](https://www.instagram.com/sooseeapp/) https://www.instagram.com/sooseeapp/
+[Facebook](https://www.facebook.com/sooseeapp) https://www.facebook.com/sooseeapp
+
 
 # Achtergrond informatie
 
