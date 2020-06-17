@@ -26,14 +26,20 @@ Hij vervolgt: “Het idee voor de app speelde zodoende al een tijd door mijn hoo
 
 Om te achterhalen welke ingrediënten in producten zitten die in Nederland worden verkocht is al een hele opgave, laat staan in het buitenland. Om vakantiegangers of iedereen die om welke reden in het buitenland vertoeft ook te helpen, zijn de woordenlijst waar de app gebruik van maakt inmiddels vertaald in het: Engels, Frans, Duits, Italiaans, Pools, Portugees, Japans, Spaans, Hongaars, Fins Deens, Noors, Turks en Litouws.
 
+Soosee is vanaf nu te gratis te downloaden in Nederland en België, de internationale lancering vind plaats op 1 juli. We vinden dat Soosee voor iedereen beschikbaar moet zijn. Wel kunnen gebruikers Soosee Supporter worden, en ons helpen zodat wij fulltime de app kunnen verbeteren. Daarnaast krijgen Soosee Supporters een aantal handige extra mogelijkheden waardoor de app net even handiger werkt.
+
+[![Foo](https://www.soosee.app/assets/appstore.png)](https://apps.apple.com/us/app/soosee-ar-ingredient-scanner/id1502026145?ls=1)
+
+App Store Download URL
+https://apps.apple.com/us/app/soosee-ar-ingredient-scanner/id1502026145?ls=1
+
 ![alt text](https://www.soosee.app/assets/screenshots/presskit2.jpg "Logo Title Text 1" )
 
 ____________________________________________
 
  Noot voor de redactie, niet bestemd voor publicatie:
 
-Screenshots, foto’s en video’s van de app staan [hier]
-(https://drive.google.com/drive/folders/1tHSfSRd246bI8LvtSiG78yofvd-EkIXf?usp=sharing)
+Screenshots, foto’s en video’s van de app staan [hier](https://drive.google.com/drive/folders/1tHSfSRd246bI8LvtSiG78yofvd-EkIXf?usp=sharing)
 
 En hier op [youtube](https://youtu.be/_olxi98dTJU) een korte demonstratie video om in een artikel te embedden
 
@@ -96,17 +102,10 @@ Kortom, als we straks weer onze reiskoffers mogen inpakken, is de Soosee-app ook
 
 ### Privacy en gebruiksvoorwaarden
 We hebben een hekel aan advertenties en tracking, en zullen dit dus ook nooit gebruiken in Soosee. Daarnaast vinden we dat jouw data van jou is, en daarom verstuurt en ontvangt Soosee helemaal NIETS. Alle woordenlijsten staan op je eigen apparaat en zullen nooit zonder jouw expliciete toestemming gedeeld worden. In toekomstige versies van de app zal je woordenlijsten openbaar kunnen maken of kunnen delen met vrienden en familie maar dit gebeurd alleen als je hier zelf voor kiest.
-https://www.soosee.app/privacy
+[Privacy Policy](https://www.soosee.app/privacy)
 
 Soosee helpt gebruikers om woorden te herkennen die in de woordenlijsten staan. Omdat de ingrediënten niet altijd gelezen kunnen worden, én omdat de basislijsten niet compleet dekkend zijn kan het voorkomen dat Soosee een woord mist. Soosee kan daarom NIET gebruikt worden door mensen met ernstige of dodelijke reacties op allergieën en intoleranties.
-https://www.soosee.app/terms
+[Gebruiksvoorwaarden](https://www.soosee.app/terms)
 
 ### Soosee Supporters
 We vinden dat Soosee voor iedereen beschikbaar moet zijn. Wel kunnen gebruikers Soosee Supporter worden, en ons helpen zodat wij fulltime de app kunnen verbeteren. Daarnaast krijgen Soosee Supporters een aantal handige extra mogelijkheden waardoor de app net even handiger werkt.
-
-
-
-
-
-
-
