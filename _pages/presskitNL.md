@@ -19,7 +19,7 @@ Soosee maakt gebruik van de nieuwste technieken op het gebied van tekstherkennin
 
 Bedenker en ontwikkelaar van de app, Jordi Bruin, kwam op het idee omdat hij zich vaker door een ingrediënten doolhof moest wurmen. Bruin over de aanleiding: “Als ik voor een vriendin van mij met een allergie voor citrusvruchten wel eens boodschappen doe, dan blijft het een uitdaging om vat te krijgen op eindeloze ingrediënten. Dat moet makkelijker kunnen dacht ik.”
 
-Hij vervolgt: “Het idee voor de app speelde zodoende al een tijd door mijn hoofd en toen ik aan het begin van de coronaperiode thuis kwam te zitten besloot ik om mijn tijd nuttig te gebruiken en door te pakken. Samen met meer dan 2.500 testers heb ik de afgelopen maanden aan Soosee gewerkt, en dankzij hun hulp is de app gefinetuned en inmiddels al voor 15 verschillende talen beschikbaar.”
+Hij vervolgt: “Het idee voor de app speelde zodoende al een tijd door mijn hoofd en toen ik aan het begin van de coronaperiode thuis kwam te zitten besloot ik om mijn tijd nuttig te gebruiken en door te pakken. Samen met meer dan 2.500 testers heb ik de afgelopen maanden aan Soosee gewerkt, en dankzij hun hulp is de app gefinetuned en inmiddels al voor meer dan 12 verschillende talen beschikbaar.”
 
 ### Op vakantie
 
@@ -84,7 +84,7 @@ Soosee maakt gebruik van de nieuwste technieken op het gebied van tekstherkennin
 - In méér dan twaalf talen te gebruiken. Superhandig tijdens vakanties.
 - Ingebouwde lijsten die de basis vormen voor veelvoorkomende allergieën en intoleranties (gluten, lactose, noten, zeevruchten, e.d.).
 - Speciale woordenlijst (vegetarisch/vegan) om bijvoorbeeld dierlijke E-nummers te herkennen.
-- Soosee-groepen die gebruikers helpen bij het uitkiezen van producten die beter zijn voor het milieu – denk aan het gebruik van palmolie als toegevoegd product.
+- Soosee-groepen die gebruikers helpen bij het uitkiezen van producten die beter zijn voor het milieu, denk aan het gebruik van palmolie als toegevoegd product.
 - Soosee-groepen die gebruikers helpen bij religieuze voorkeuren (alcohol, Halal, Koosjer).
 
 ### Voor wie?
@@ -99,8 +99,8 @@ Sinds kort besloten hebt veganistisch/vegetarisch te eten
 ### Internationaal
 Dankzij onze internationale testers is de app al in vijftien talen vertaald. Van Deens tot Hebreeuws en van Spaans tot Mandarijn. En, de woordenlijsten – die als database voor de Soosee-app dienen – voor alle verschillende allergieën of intoleranties zijn momenteel in twaalf talen te gebruiken.
 
-Op dit moment is de app te gebruiken in 15 verschillende talen.
-Engels, Nederlands, Frans, Duits, Italiaans, Pools, Portugees, Japans, Spaans, Hongaars, Fins, Deens, Noors, Turks, Litouws.  
+Op dit moment is de app te gebruiken in 14 verschillende talen.
+Engels, Nederlands, Frans, Duits, Italiaans, Pools, Portugees, Spaans, Hongaars, Fins, Deens, Noors, Turks, Litouws.  
 
 Kortom, als we straks weer onze reiskoffers mogen inpakken, is de Soosee-app ook in het buitenland ontzettend handig om snel en gemakkelijk in een supermarkt producten te controleren op jouw allergie, intolerantie of voorkeur! 
 
