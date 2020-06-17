@@ -12,6 +12,8 @@ August 1 2019
 
 ## Iedereen die een bepaalde voedselallergie of -intolerantie heeft, is gewend om verpakkingen van producten door te speuren om te checken welke ingrediënten er precies in zitten. Wat nou als er een app is die dit allemaal voor jou doet?
 
+![alt text](https://www.soosee.app/assets/screenshots/presskit.jpg "Logo Title Text 1" )
+
 Soosee maakt gebruik van de nieuwste technieken op het gebied van tekstherkenning en Augmented Reality om ingrediënten te herkennen en uit te lichten. Die linkt hij aan specifieke woorden in woordenlijsten die gerelateerd zijn aan bepaalde allergieën of intoleranties. Op die manier is het ook mogelijk om bijvoorbeeld dierlijke E-nummers te herkennen of om te zien of er palmolie aan een product is toegevoegd.
 
 ### Ingrediënten doolhof
@@ -24,13 +26,7 @@ Hij vervolgt: “Het idee voor de app speelde zodoende al een tijd door mijn hoo
 
 Om te achterhalen welke ingrediënten in producten zitten die in Nederland worden verkocht is al een hele opgave, laat staan in het buitenland. Om vakantiegangers of iedereen die om welke reden in het buitenland vertoeft ook te helpen, zijn de woordenlijst waar de app gebruik van maakt inmiddels vertaald in het: Engels, Frans, Duits, Italiaans, Pools, Portugees, Japans, Spaans, Hongaars, Fins Deens, Noors, Turks en Litouws.
 
-<!-- 
-![alt text](../assets/screenshots/screenshot1.png =100x20 "Screenshot 1")
-![alt text](../assets/screenshots/screenshot2.png =300x "Screen 2" )
-![alt text](../assets/screenshots/screenshot3.png =300x "Logo Title Text 1" )
-![alt text](../assets/screenshots/screenshot4.png =300x "Logo Title Text 1" )
- -->
-![alt text](https://www.soosee.app/assets/screenshots/presskit.jpg "Logo Title Text 1" )
+![alt text](https://www.soosee.app/assets/screenshots/presskit2.jpg "Logo Title Text 1" )
 
 ____________________________________________
 
