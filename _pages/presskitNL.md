@@ -9,7 +9,7 @@ include_in_header: false
 
 # Soosee App helpt mensen met een allergie of intolerantie uit de brand
 
-![alt text](https://www.soosee.app/assets/screenshots/presskit.jpg "Logo Title Text 1" )
+![alt text](https://www.soosee.app/assets/screenshots/presskit.jpg "Soosee Screenshots" )
 
 ## Wie een voedselallergie of -intolerantie heeft, is gewend om verpakkingen af te speuren om te checken welke ingrediënten er precies in zitten. Wat als er een app is die dit voor jou doet?
 
@@ -25,6 +25,8 @@ Jordi Bruin, bedenker en ontwikkelaar van de app, kwam op het idee omdat ook hij
 
 Hij vervolgt: _“Het idee voor de app speelde zodoende al een tijd door mijn hoofd en toen ik aan het begin van de coronaperiode thuis kwam te zitten besloot ik om mijn tijd nuttig te gebruiken en door te pakken. Samen met meer dan 2.500 testers heb ik de afgelopen maanden aan Soosee gewerkt, en dankzij hun hulp is de app gefinetuned en inmiddels al voor meer dan 12 verschillende talen beschikbaar.”_
 
+![alt text](https://www.soosee.app/assets/screenshots/presskit2.jpg "Soosee Screenshots" )
+
 ### Nu te downloaden voor iPhone
 
 Soosee is vanaf donderdag 18 juni gratis te downloaden in Nederlandse en Belgische App Store, de internationale lancering vind plaats op 1 juli. In Juli wordt de Android versie uitgebracht.
@@ -37,7 +39,7 @@ We vinden dat Soosee voor iedereen beschikbaar moet zijn. Wel kunnen gebruikers 
 
 https://apps.apple.com/us/app/soosee-ar-ingredient-scanner/id1502026145?ls=1
 
-![alt text](https://www.soosee.app/assets/screenshots/presskit2.jpg "Logo Title Text 1" )
+
 
 ____________________________________________
 
