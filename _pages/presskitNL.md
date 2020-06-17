@@ -35,7 +35,7 @@ We vinden dat Soosee voor iedereen beschikbaar moet zijn. Wel kunnen gebruikers 
 
 [![Foo](https://www.soosee.app/assets/appstore3.png)](https://apps.apple.com/us/app/soosee-ar-ingredient-scanner/id1502026145?ls=1)
 
-###App Store Download URL
+### App Store Download URL
 
 https://apps.apple.com/us/app/soosee-ar-ingredient-scanner/id1502026145?ls=1
 
