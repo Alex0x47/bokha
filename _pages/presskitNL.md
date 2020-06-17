@@ -28,7 +28,10 @@ Om te achterhalen welke ingrediënten in producten zitten die in Nederland worde
 
 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text]('./assets/screenshots/screenshot1.png' "Logo Title Text 1")
+![alt text](./assets/screenshots/screenshot2.png "Logo Title Text 1")
+![alt text](../assets/screenshots/screenshot2.png "Logo Title Text 1")
+![alt text](https://www.soosee.app/assets/screenshots/screenshot2.png "Logo Title Text 1")
 
 ____________________________________________
 
