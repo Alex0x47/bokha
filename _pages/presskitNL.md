@@ -45,6 +45,9 @@ ____________________________________________
 
  Noot voor de redactie, Google Drive link niet bestemd voor publicatie:
 
+Soosee heeft een mooie eerste dag gehad in de App Store. Op donderdagavond stond Soosee zelfs op de derde plek in de categorie Eten en Drinken. 
+[Foo](https://www.soosee.app/assets/appstorerank.png)
+
 Screenshots, foto’s en video’s van de app staan [hier](https://drive.google.com/drive/folders/1tHSfSRd246bI8LvtSiG78yofvd-EkIXf?usp=sharing)
 
 En [hier](https://youtu.be/_olxi98dTJU) op YouTube (https://youtu.be/_olxi98dTJU) een korte demonstratie video om in een artikel te embedden
