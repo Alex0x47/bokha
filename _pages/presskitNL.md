@@ -33,11 +33,11 @@ Soosee is vanaf donderdag 18 juni gratis te downloaden in Nederlandse en Belgisc
 
 We vinden dat Soosee voor iedereen beschikbaar moet zijn. Wel kunnen gebruikers Soosee Supporter worden, en ons helpen zodat wij fulltime de app kunnen verbeteren. Daarnaast krijgen Soosee Supporters een aantal handige extra mogelijkheden waardoor de app net even handiger werkt.
 
-[![Foo](https://www.soosee.app/assets/appstore.png)](https://apple.co/2NcOpfX)
+[![Foo](https://www.soosee.app/assets/appstore.png)](https://apps.apple.com/us/app/id1502026145)
 
 ### App Store Download URL
 
-https://apple.co/2NcOpfX
+https://apps.apple.com/us/app/id1502026145
 
 
 
