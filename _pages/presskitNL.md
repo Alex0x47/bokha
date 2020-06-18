@@ -45,9 +45,7 @@ ____________________________________________
 
  Noot voor de redactie, Google Drive link niet bestemd voor publicatie:
 
-Soosee heeft een mooie eerste dag gehad in de App Store. Op donderdagavond stond Soosee zelfs op de derde plek in de categorie Eten en Drinken. 
-![alt text](https://www.soosee.app/assets/appstorerank.png "App Store #3")
-
+Soosee heeft een mooie eerste dag gehad in de App Store. Op donderdagavond stond Soosee zelfs op de derde plek in de categorie Eten en Drinken met meer dan duizend downloads op één dag!
 
 Screenshots, foto’s en video’s van de app staan [hier](https://drive.google.com/drive/folders/1tHSfSRd246bI8LvtSiG78yofvd-EkIXf?usp=sharing)
 
