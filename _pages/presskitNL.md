@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 
-**Laatst geupdate 17 juni 2020**  
+**Laatst geupdate 14 juli 2020**  
 
 # Soosee App helpt mensen met een allergie of intolerantie uit de brand
 
@@ -29,11 +29,11 @@ Hij vervolgt: _“Het idee voor de app speelde zodoende al een tijd door mijn ho
 
 ### Nu te downloaden voor iPhone
 
-Soosee is vanaf donderdag 18 juni gratis te downloaden in Nederlandse en Belgische App Store, de internationale lancering vind plaats op 1 juli. In Juli wordt de Android versie uitgebracht.
+Soosee is vanaf nu gratis te downloaden in Nederlandse en Belgische App Store, de internationale lancering vindt plaats op 21 juli. Een Android versie volgt later dit jaar.
 
 We vinden dat Soosee voor iedereen beschikbaar moet zijn. Wel kunnen gebruikers Soosee Supporter worden, en ons helpen zodat wij fulltime de app kunnen verbeteren. Daarnaast krijgen Soosee Supporters een aantal handige extra mogelijkheden waardoor de app net even handiger werkt.
 
-[![Foo](https://www.soosee.app/assets/appstore.png)](https://apps.apple.com/us/app/id1502026145)
+[![Appstore](https://www.soosee.app/assets/appstore.png)](https://apps.apple.com/us/app/id1502026145)
 
 ### App Store Download URL
 
@@ -45,7 +45,17 @@ ____________________________________________
 
  Noot voor de redactie, Google Drive link niet bestemd voor publicatie:
 
-Soosee heeft een mooie eerste dag gehad in de App Store. Op donderdagavond stond Soosee zelfs op de derde plek in de categorie Eten en Drinken met meer dan duizend downloads op één dag!
+Inmiddels is Soosee al voorbij gekomen in de volgende publicaties:
+
+AD.nl - https://www.ad.nl/koken-en-eten/nieuwe-app-helpt-mensen-met-een-allergie-de-kleine-lettertjes-te-lezen-in-de-supermarkt~a46dc832/
+AD.nl video - https://www.ad.nl/video/kanalen/nederlands-nieuws~c400/series/korte-reportage~s908/app-moet-allergenen-op-etiketten-sneller-opsporen~p155821
+BNR radio Item - https://www.bnr.nl/podcast/internet-vandaag/10413904/schaal-van-hebben-soosee-ar-ingredienten-scanner
+RTL Nieuws - https://www.rtlnieuws.nl/tech/artikel/5159861/nederlandse-ar-app-laat-zien-voedsel-allergenen-bevat
+Nu.nl - https://www.nu.nl/tech/6060560/apps-van-de-week-golf-on-mars-en-pokemon-cafe-mix.html
+VeggieReporter - https://veggiereporter.com/2020/06/17/soosee-app/
+Eatly - https://www.eatly.nl/gadgets/soosee-is-gamechanger-voor-mensen-met-een-voedselallergie-of-intolerantie
+Colourful Rebel - https://blog.colourfulrebel.com/de-app-soosee-is-de-meest-briljante-uitvinding-voor-mensen-met-een-voedselallergie/
+Goedemorgen Nederland
 
 Screenshots, foto’s en video’s van de app staan [hier](https://drive.google.com/drive/folders/1tHSfSRd246bI8LvtSiG78yofvd-EkIXf?usp=sharing)
 
