@@ -47,14 +47,14 @@ ____________________________________________
 
 Inmiddels is Soosee al voorbij gekomen in de volgende publicaties:
 
-AD.nl - https://www.ad.nl/koken-en-eten/nieuwe-app-helpt-mensen-met-een-allergie-de-kleine-lettertjes-te-lezen-in-de-supermarkt~a46dc832/
-AD.nl video - https://www.ad.nl/video/kanalen/nederlands-nieuws~c400/series/korte-reportage~s908/app-moet-allergenen-op-etiketten-sneller-opsporen~p155821
-BNR radio Item - https://www.bnr.nl/podcast/internet-vandaag/10413904/schaal-van-hebben-soosee-ar-ingredienten-scanner
-RTL Nieuws - https://www.rtlnieuws.nl/tech/artikel/5159861/nederlandse-ar-app-laat-zien-voedsel-allergenen-bevat
-Nu.nl - https://www.nu.nl/tech/6060560/apps-van-de-week-golf-on-mars-en-pokemon-cafe-mix.html
-VeggieReporter - https://veggiereporter.com/2020/06/17/soosee-app/
-Eatly - https://www.eatly.nl/gadgets/soosee-is-gamechanger-voor-mensen-met-een-voedselallergie-of-intolerantie
-Colourful Rebel - https://blog.colourfulrebel.com/de-app-soosee-is-de-meest-briljante-uitvinding-voor-mensen-met-een-voedselallergie/
+AD.nl - (https://www.ad.nl/koken-en-eten/nieuwe-app-helpt-mensen-met-een-allergie-de-kleine-lettertjes-te-lezen-in-de-supermarkt~a46dc832/)[https://www.ad.nl/koken-en-eten/nieuwe-app-helpt-mensen-met-een-allergie-de-kleine-lettertjes-te-lezen-in-de-supermarkt~a46dc832/]
+AD.nl video - (https://www.ad.nl/video/kanalen/nederlands-nieuws~c400/series/korte-reportage~s908/app-moet-allergenen-op-etiketten-sneller-opsporen~p155821)[https://www.ad.nl/video/kanalen/nederlands-nieuws~c400/series/korte-reportage~s908/app-moet-allergenen-op-etiketten-sneller-opsporen~p155821]
+BNR radio Item - (https://www.bnr.nl/podcast/internet-vandaag/10413904/schaal-van-hebben-soosee-ar-ingredienten-scanner)[https://www.bnr.nl/podcast/internet-vandaag/10413904/schaal-van-hebben-soosee-ar-ingredienten-scanner]
+RTL Nieuws - (https://www.rtlnieuws.nl/tech/artikel/5159861/nederlandse-ar-app-laat-zien-voedsel-allergenen-bevat)[https://www.rtlnieuws.nl/tech/artikel/5159861/nederlandse-ar-app-laat-zien-voedsel-allergenen-bevat]
+Nu.nl - (https://www.nu.nl/tech/6060560/apps-van-de-week-golf-on-mars-en-pokemon-cafe-mix.html)[https://www.nu.nl/tech/6060560/apps-van-de-week-golf-on-mars-en-pokemon-cafe-mix.html]
+VeggieReporter - (https://veggiereporter.com/2020/06/17/soosee-app/)[https://veggiereporter.com/2020/06/17/soosee-app/]
+Eatly - (https://www.eatly.nl/gadgets/soosee-is-gamechanger-voor-mensen-met-een-voedselallergie-of-intolerantie)[https://www.eatly.nl/gadgets/soosee-is-gamechanger-voor-mensen-met-een-voedselallergie-of-intolerantie]
+Colourful Rebel - (https://blog.colourfulrebel.com/de-app-soosee-is-de-meest-briljante-uitvinding-voor-mensen-met-een-voedselallergie/)[https://blog.colourfulrebel.com/de-app-soosee-is-de-meest-briljante-uitvinding-voor-mensen-met-een-voedselallergie/]
 Goedemorgen Nederland
 
 Screenshots, foto’s en video’s van de app staan [hier](https://drive.google.com/drive/folders/1tHSfSRd246bI8LvtSiG78yofvd-EkIXf?usp=sharing)
