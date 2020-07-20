@@ -6,12 +6,12 @@ ios_app_id                                :                                 # Re
 
 appstore_link                             : https://apple.co/2Yak4VJ    # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            : https://forms.gle/1wh7pACWKRYvKTq89       # Enter Google Play Store URL.
-presskit_download_link                    : https://www.soosee.app/presskitNL                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+presskit_download_link                    : https://www.soosee.app/presskitEN                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 app_icon                                  : ./assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Soosee - Allergy & Food Scanner
 app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Easily Check for Allergens and Ingredients in Seconds.
+app_description                           : Easily check for allergens and intolerances in less than a second
 
 enable_smart_app_banner                   : false                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -34,23 +34,23 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Realtime Scanner
-    description                           : Soosee scans and displays the ingredients you've enabled live on top of the camera view when they are found in a product.
+    description                           : Soosee scans and highlights ingredients that you want to avoid 
     fontawesome_icon_name                 : camera
     
   - title                                 : Built-in word lists
-    description                           : For the most common allergies, religions and diets.
+    description                           : For the most common allergies and intolerances (gluten, lactose, tree nuts etc)
     fontawesome_icon_name                 : utensils
 
-  - title                                 : Great for Vegans!
-    description                           : Thanks to categories for meat and animal derivec e-numbers.
+  - title                                 : Perfect for Vegans!
+    description                           : Thanks to vegan word lists (including animal derived e-numbers)
     fontawesome_icon_name                 : seedling
 
   - title                                 : Useful around the world
-    description                           : Soosee scans for allergies in Dutch, English, German, French, Portugese, Italian, Japanese, Spanish, Hungarian, Swedish, Finnish, Polish, Danish, Russian,Norwegian,Turkish, Czech and Lithuanian. With more to come!
+    description                           : Soosee scans for allergies in English, Dutch, French, German, Italian, Polish, Portuguese, Spanish, Hungarian, Finnish, Danish, Norwegian, Turkish, Lithuanian and Swedish. With more to come!
     fontawesome_icon_name                 : flag
 
-  - title                                 : Add your own groups
-    description                           : Create lists that highlight the ingredients that you don't want to consume.
+  - title                                 : Create your own groups
+    description                           : Create wordlists to highlight ingredients specific to your dietary constraints
     fontawesome_icon_name                 : list
 
   

@@ -19,6 +19,9 @@ Soosee uses the latest techniques in text recognition and augmented reality to r
 
 Figuring out what's in your food can be difficult in your own language, let alone while you're abroad. To help people who are travelling, Soosee's built-in word lists for common allergies and intolerances have been translated in more than 15 languages. From Italian to French, and from Finnish to Turkish. The word lists are constantly updated thanks to user feedback from all around the world.
 
+The wordlists are translated in:
+English, Dutch, French, German, Italian, Polish, Portuguese, Spanish, Hungarian, Finnish, Danish, Norwegian, Turkish, Lithuanian and Swedish.
+
 ### Maze of ingredients
 
 Jordi Bruin, the developer behind Soosee was personally frustrated with reading every ingredientlist. "When I do groceries for my girlfriend who is allergic to oranges, I constantly had to read the list to make sure it was safe to eat. When Apple added new text recognition technologies to the iPhone, I wanted to find a solution. When I went into home quarantine due to Corona I decided to use my time wisely and build the app so it could work for any allergy or intolerance. Together with more than 2.500 testers, and over 40 translators from all over the world, the app is now available in more than 15 languages!"
