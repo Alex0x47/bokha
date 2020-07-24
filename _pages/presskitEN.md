@@ -48,7 +48,7 @@ ____________________________________________
 
 Soosee has been covered by these Dutch publications.
 
-AD.nl - (https://www.ad.nl/koken-en-eten/nieuwe-app-helpt-mensen-met-een-allergie-de-kleine-lettertjes-te-lezen-in-de-supermarkt~a46dc832/)[https://www.ad.nl/koken-en-eten/nieuwe-app-helpt-mensen-met-een-allergie-de-kleine-lettertjes-te-lezen-in-de-supermarkt~a46dc832/]
+[AD.nl](https://www.ad.nl/koken-en-eten/nieuwe-app-helpt-mensen-met-een-allergie-de-kleine-lettertjes-te-lezen-in-de-supermarkt~a46dc832/)
 AD.nl video - (https://www.ad.nl/video/kanalen/nederlands-nieuws~c400/series/korte-reportage~s908/app-moet-allergenen-op-etiketten-sneller-opsporen~p155821)[https://www.ad.nl/video/kanalen/nederlands-nieuws~c400/series/korte-reportage~s908/app-moet-allergenen-op-etiketten-sneller-opsporen~p155821]
 BNR radio Item - (https://www.bnr.nl/podcast/internet-vandaag/10413904/schaal-van-hebben-soosee-ar-ingredienten-scanner)[https://www.bnr.nl/podcast/internet-vandaag/10413904/schaal-van-hebben-soosee-ar-ingredienten-scanner]
 RTL Nieuws - (https://www.rtlnieuws.nl/tech/artikel/5159861/nederlandse-ar-app-laat-zien-voedsel-allergenen-bevat)[https://www.rtlnieuws.nl/tech/artikel/5159861/nederlandse-ar-app-laat-zien-voedsel-allergenen-bevat]
