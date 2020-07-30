@@ -30,9 +30,9 @@ Jordi Bruin, the developer behind Soosee was personally frustrated with reading 
 
 ### Available now for iPhone
 
-Soosee is available on the Apple App Store for free starting today. An Android version is in the early development phase with a planned launch later this year.
+Soosee is available on the Apple App Store for free. The app has already been featured by Apple and has been downloaded more than 10.000 times in it's first month of release.
 
-We want Soosee to be available to as many people as possible. Users can become a Soosee Supporter to help support the development of the app, which also gives them extra features in the app.
+We want Soosee to be available to as many people as possible so the app is free. Users can become a Soosee Supporter to help support the development of the app, which also gives them a few extra features in the app, but free users can also use all the features.
 
 [![Appstore](https://www.soosee.app/assets/appstore.png)](https://apps.apple.com/us/app/id1502026145)
 
@@ -49,14 +49,13 @@ ____________________________________________
 Soosee has been covered by these Dutch publications.
 
 [AD.nl](https://www.ad.nl/koken-en-eten/nieuwe-app-helpt-mensen-met-een-allergie-de-kleine-lettertjes-te-lezen-in-de-supermarkt~a46dc832/)
-AD.nl video - (https://www.ad.nl/video/kanalen/nederlands-nieuws~c400/series/korte-reportage~s908/app-moet-allergenen-op-etiketten-sneller-opsporen~p155821)[https://www.ad.nl/video/kanalen/nederlands-nieuws~c400/series/korte-reportage~s908/app-moet-allergenen-op-etiketten-sneller-opsporen~p155821]
-BNR radio Item - (https://www.bnr.nl/podcast/internet-vandaag/10413904/schaal-van-hebben-soosee-ar-ingredienten-scanner)[https://www.bnr.nl/podcast/internet-vandaag/10413904/schaal-van-hebben-soosee-ar-ingredienten-scanner]
-RTL Nieuws - (https://www.rtlnieuws.nl/tech/artikel/5159861/nederlandse-ar-app-laat-zien-voedsel-allergenen-bevat)[https://www.rtlnieuws.nl/tech/artikel/5159861/nederlandse-ar-app-laat-zien-voedsel-allergenen-bevat]
-Nu.nl - (https://www.nu.nl/tech/6060560/apps-van-de-week-golf-on-mars-en-pokemon-cafe-mix.html)[https://www.nu.nl/tech/6060560/apps-van-de-week-golf-on-mars-en-pokemon-cafe-mix.html]
-VeggieReporter - (https://veggiereporter.com/2020/06/17/soosee-app/)[https://veggiereporter.com/2020/06/17/soosee-app/]
-Eatly - (https://www.eatly.nl/gadgets/soosee-is-gamechanger-voor-mensen-met-een-voedselallergie-of-intolerantie)[https://www.eatly.nl/gadgets/soosee-is-gamechanger-voor-mensen-met-een-voedselallergie-of-intolerantie]
-Colourful Rebel - (https://blog.colourfulrebel.com/de-app-soosee-is-de-meest-briljante-uitvinding-voor-mensen-met-een-voedselallergie/)[https://blog.colourfulrebel.com/de-app-soosee-is-de-meest-briljante-uitvinding-voor-mensen-met-een-voedselallergie/]
-Goedemorgen Nederland
+[AD.nl video](https://www.ad.nl/video/kanalen/nederlands-nieuws~c400/series/korte-reportage~s908/app-moet-allergenen-op-etiketten-sneller-opsporen~p155821)
+[BNR radio Item](https://www.bnr.nl/podcast/internet-vandaag/10413904/schaal-van-hebben-soosee-ar-ingredienten-scanner)
+[RTL Nieuws](https://www.rtlnieuws.nl/tech/artikel/5159861/nederlandse-ar-app-laat-zien-voedsel-allergenen-bevat)
+[Nu.nl](https://www.nu.nl/tech/6060560/apps-van-de-week-golf-on-mars-en-pokemon-cafe-mix.html)
+[VeggieReporter](https://veggiereporter.com/2020/06/17/soosee-app/)
+[Eatly](https://www.eatly.nl/gadgets/soosee-is-gamechanger-voor-mensen-met-een-voedselallergie-of-intolerantie)
+[Colourful Rebel](https://blog.colourfulrebel.com/de-app-soosee-is-de-meest-briljante-uitvinding-voor-mensen-met-een-voedselallergie/)
 
 Screenshots, photos and video of the app can be found [here](https://drive.google.com/drive/folders/1tHSfSRd246bI8LvtSiG78yofvd-EkIXf?usp=sharing)
 
