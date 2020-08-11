@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 **Last updated**  
-June 9 2020
+August 11 2020
 
 
 # Privacy Policy
@@ -23,4 +23,4 @@ This Service may contain links to other sites. If you click on a third-party lin
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and by showing a message in the app. These changes are effective immediately after they are posted on this page.
 
 ### 1.4 Contact Us
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at jordi@goodsnooze.com
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at jordi@soosee.app
