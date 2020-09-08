@@ -1,13 +1,5 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": “JHGFJHHYX.com.goodsnooze.allergy",
-        "paths": [
-          "*"
-        ]
-      }
-    ]
+  "appclips": {
+    "apps": [“8Q7TMPA46J.com.goodsnooze.allergy.Clip"]
   }
 }
