@@ -1,5 +1,9 @@
 {
-  "appclips": {
-    "apps": ["8Q7TMPA46J.com.goodsnooze.allergy.Clip"]
-  }
+	"applinks": {
+		"apps": [],
+		"details": []
+	},
+	"appclips": {
+		"apps": ["8Q7TMPA46J.com.goodsnooze.allergy.Clip"]
+	}
 }
