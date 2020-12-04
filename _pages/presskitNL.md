@@ -29,7 +29,7 @@ Hij vervolgt: _“Het idee voor de app speelde zodoende al een tijd door mijn ho
 
 ### Nu te downloaden voor iPhone
 
-Soosee is vanaf nu gratis te downloaden in Nederlandse en Belgische App Store, de internationale lancering vindt plaats op 21 juli. Een Android versie volgt later dit jaar.
+Soosee is vanaf nu gratis te downloaden in Nederlandse en Belgische App Store, de internationale lancering vindt plaats op 21 juli. Een Android versie volgt in 2021.
 
 We vinden dat Soosee voor iedereen beschikbaar moet zijn. Wel kunnen gebruikers Soosee Supporter worden, en ons helpen zodat wij fulltime de app kunnen verbeteren. Daarnaast krijgen Soosee Supporters een aantal handige extra mogelijkheden waardoor de app net even handiger werkt.
 
