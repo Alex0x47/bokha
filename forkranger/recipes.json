@@ -93,24 +93,28 @@
           "emoji" : "🍅🧀"
         },
         {
-          "title" : "Cook spaghetti",
-          "detail" : "~10 min",
-          "emoji" : "🔥"
+          "title" : "Cook the spaghetti",
+          "detail" : "Add a little pinch of salt and use enough water",
+          "emoji" : "🔥",
+          "time" : "10"
         },
         {
           "title" : "Sauté onion",
-          "detail" : "medium heat ~4 min",
-          "emoji" : "🧅"
+          "detail" : "Medium heat",
+          "emoji" : "🧅",
+          "time" : 4
         },
         {
           "title" : "Add garlic, chilli, cumin and paprika powder",
-          "detail" : "toast but don't let it burn ~3 min",
-          "emoji" : "🧄"
+          "detail" : "Toast but don't let it burn",
+          "emoji" : "🧄",
+          "time" : 3
         },
         {
           "title" : "Add orange juice",
-          "detail" : "bring to boil and simmer ~5 min",
-          "emoji" : "🍊"
+          "detail" : "Bring to boil and simmer",
+          "emoji" : "🍊",
+          "time" : 5
         },
         {
           "title" : "Add spaghetti and mix well",
