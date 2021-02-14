@@ -96,7 +96,7 @@
           "title" : "Cook the spaghetti",
           "detail" : "Add a little pinch of salt and use enough water",
           "emoji" : "🔥",
-          "time" : "10"
+          "time" : 10
         },
         {
           "title" : "Sauté onion",
