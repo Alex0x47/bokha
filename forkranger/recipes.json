@@ -95,27 +95,27 @@
         {
           "title" : "Cook spaghetti",
           "detail" : "~10 min",
-          "emoji" : ""
+          "emoji" : "🔥"
         },
         {
           "title" : "Sauté onion",
           "detail" : "medium heat ~4 min",
-          "emoji" : ""
+          "emoji" : "🧅"
         },
         {
           "title" : "Add garlic, chilli, cumin and paprika powder",
           "detail" : "toast but don't let it burn ~3 min",
-          "emoji" : ""
+          "emoji" : "🧄"
         },
         {
           "title" : "Add orange juice",
           "detail" : "bring to boil and simmer ~5 min",
-          "emoji" : ""
+          "emoji" : "🍊"
         },
         {
           "title" : "Add spaghetti and mix well",
           "detail" : "",
-          "emoji" : ""
+          "emoji" : "🍝"
         }
       ],
       "credits" : "Thanks to Cristina for this recipe"
