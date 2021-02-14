@@ -89,8 +89,9 @@
       "cookSteps" : [
         {
           "title" : "Spread cauliflower and cherry tomatoes on a baking sheet and crumble feta on top",
-          "detail" : "~20 min at 220°C",
-          "emoji" : "🍅🧀"
+          "detail" : "220°C",
+          "emoji" : "🍅🧀",
+          "time" : 20
         },
         {
           "title" : "Cook the spaghetti",
