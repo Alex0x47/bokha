@@ -2,14 +2,14 @@
 page_title                                : Soosee - Allergy & Food Scanner  # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                :                                 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 1628130548                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             : https://apple.co/2Yak4VJ    # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link                            : https://play.google.com/store/apps/details?id=com.goodsnooze.soosee       # Enter Google Play Store URL.
-presskit_download_link                    : https://www.soosee.app/presskitEN                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+playstore_link                            : https://play.google.com/store/apps/details?id=com.gsy.scallergy       # Enter Google Play Store URL.
+#presskit_download_link                    : https://www.soosee.app/presskitEN                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 app_icon                                  : ./assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Soosee - Allergy & Vegan Food Scanner
+app_name                                  : Boka - Allergens Scanner
 app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Easily check for allergens and intolerances in less than a second
 
@@ -18,15 +18,15 @@ enable_smart_app_banner                   : false                               
 
 
 # Information About Yourself
-your_name                                 : Jordi Bruin                                
-your_link                                 : http://www.jordibruin.com
-your_city                                 : Home Quarantine                                
-email_address                             : jordi@soosee.app
-facebook_username                         : sooseeapp
-instagram_username                        : sooseeapp
-twitter_username                          : sooseeapp
-github_username                           : jordibruin
-youtube_username                          :
+your_name                                 : Alexandre Grisey                                
+your_link                                 : https://alexgsy.notion.site/It-s-me-Alex-7eddcb668b5444b9b9edb4b5a1fac7b9
+your_city                                 : Everywhere                                
+email_address                             : pro@alexandre-grisey.fr
+#facebook_username                         : sooseeapp
+instagram_username                        : alex_gsy
+twitter_username                          : nomalex_
+github_username                           : Alex0x47
+#youtube_username                          :
 
 
 
