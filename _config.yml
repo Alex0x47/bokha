@@ -33,25 +33,26 @@ github_username                           : Alex0x47
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Realtime Scanner
-    description                           : Soosee scans and highlights ingredients that you want to avoid 
-    fontawesome_icon_name                 : camera
+  - title                                 : Product Allergens & Traces Scanner
+    description                           : Boka scans product barcodes to retrieve allergens & traces among 13 different allergens
+    fontawesome_icon_name                 : barcode-read
     
-  - title                                 : Built-in word lists
-    description                           : For the most common allergies and intolerances (gluten, lactose, tree nuts etc)
-    fontawesome_icon_name                 : utensils
+  - title                                 : Set the allergens you want to detect
+    description                           : Tell Boka wich allergens you want to detect, the app will tell you right away if the product contains them!
+    fontawesome_icon_name                 : wheat-slash
 
-  - title                                 : Perfect for Vegans!
-    description                           : Thanks to vegan word lists (including animal derived e-numbers)
-    fontawesome_icon_name                 : seedling
+  - title                                 : Favorite and Sharable Products
+    description                           : Youn found a product without allergens? You can put it in favorite, and even share it to other
+    fontawesome_icon_name                 : heart
 
-  - title                                 : Useful around the world
-    description                           : Soosee scans for allergies in English, Dutch, French, German, Italian, Polish, Portuguese, Spanish, Hungarian, Finnish, Danish, Norwegian, Turkish, Lithuanian and Swedish. With more to come!
-    fontawesome_icon_name                 : flag
+  - title                                 : Work all around the world
+    description                           : Can work all around the world - if the product is present in the database
+    fontawesome_icon_name                 : globe
 
-  - title                                 : Create your own groups
-    description                           : Create wordlists to highlight ingredients specific to your dietary constraints
-    fontawesome_icon_name                 : list
+  # - title                                 : Useful around the world
+  #   description                           : Soosee scans for allergies in English, Dutch, French, German, Italian, Polish, Portuguese, Spanish, Hungarian, Finnish, Danish, Norwegian, Turkish, Lithuanian and Swedish. With more to come!
+  #   fontawesome_icon_name                 : flag
+
 
   
 
