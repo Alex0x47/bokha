@@ -1,10 +1,27 @@
 <!DOCTYPE html>
-<html lang="en-us">
+<html lang="en">
 
-DONWLOAD
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bokha - download</title>
+</head>
 
-<body class="subPageBody">
-  download
+<body>
+  You'll soon be redirected to the store...
 </body>
+
+<script>
+  const userDevice = navigator.userAgent;
+
+  if (userDevice.includes("iPhone") || userDevice.includes("iPod")) {
+    window.location.href = "https://apps.apple.com/us/app/bokha-product-scanner/id1628130548" // app store
+  } else if (userDevice.includes("Android")) {
+    window.location.href = "https://play.google.com/store/apps/details?id=com.gsy.scallergy" // android store
+  } else {
+    window.location.href = "https://alex0x47.github.io/bokha" // redirect to the main website
+  }
+</script>
 
 </html>
