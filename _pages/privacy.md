@@ -5,13 +5,13 @@ include_in_header: true
 ---
 
 **Last updated**  
-August 11 2020
+June 20 2022
 
 
 # Privacy Policy
 
 ## 1.0 Information We Collect
-Soosee does not collect anything. Soosee does not send any data from or to your device. All functionality is performed on your device. There are no network calls and no analytics. If we add this in the future we will let you know, but even then it would be hosted on our own servers with no tracking.
+Bokha does not collect anything. Bokha does not send any data from or to your device. All functionality is performed on your device. There are no network calls and no analytics. If we add this in the future we will let you know, but even then it would be hosted on our own servers with no tracking.
 
 ### 1.2 Information you provide to us 
 In a future version of the app it will be possible to share your own groups with other people, but you will always need to initiate this sharing yourself and you will be given a clear warning.
@@ -23,4 +23,4 @@ This Service may contain links to other sites. If you click on a third-party lin
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and by showing a message in the app. These changes are effective immediately after they are posted on this page. 
 
 ### 1.4 Contact Us
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at jordi@soosee.app
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at jordi@Bokha.app
