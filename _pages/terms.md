@@ -63,7 +63,7 @@ The User recognizes that the Publisher may not be held liable for the provision 
 
 **The User expressly agrees that it is using the App at its own risk and under its own responsibility alone.**
 
-**If the User has allergies or intelorances, they shoudln't use the App to decide wich food they can eat or not**
+**If the User has allergies or intelorances, they shouldn't use the App to decide wich food they can eat or not**
 
 The Publisher may not be held liable for errors in the product displayed, particularly with respect to information about product analysis. It is therefore up to the User to verify the composition of the products directly on their packaging in order to be sure they are obtaining up-to-date information about their composition.
 
