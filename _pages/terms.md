@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-June 20 2022
+August 20 2022
 
 # END USER LICENSE AGREEMENT
 ## Terms of Use
