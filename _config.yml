@@ -1,5 +1,5 @@
 #page title
-page_title                                : Bokha - Food Scanner  # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Bokha - Food Allergy Scanner App  # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 1628130548                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -10,8 +10,8 @@ playstore_link                            : https://play.google.com/store/apps/d
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 app_icon                                  : ./assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Bokha - Food Scanner
-app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Check products to find allergens in less than a second
+app_price                                 : Free Food Allergy Scanner App             # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description                           : Check products to find allergens in less than a second.
 
 enable_smart_app_banner                   : false                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -19,8 +19,8 @@ enable_smart_app_banner                   : false                               
 
 # Information About Yourself
 your_name                                 : Alexandre Grisey                                
-your_link                                 : https://alexgsy.notion.site/It-s-me-Alex-7eddcb668b5444b9b9edb4b5a1fac7b9
-your_city                                 : the whole world                                
+your_link                                 : https://alexandre-grisey.fr/
+your_city                                 :                             
 email_address                             : pro@alexandre-grisey.fr
 #facebook_username                         : sooseeapp
 instagram_username                        : alex_gsy
@@ -33,11 +33,11 @@ github_username                           : Alex0x47
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Product Allergens & Traces Scanner
+  - title                                 : Product Allergens & Traces App Scanner
     description                           : Bokha scans product barcodes to retrieve allergens & traces among 13 different allergens
     fontawesome_icon_name                 : barcode
     
-  - title                                 : Set the allergens you want to detect
+  - title                                 : Set the Allergens you Want to Detect in Products
     description                           : Tell Bokha wich allergens you want to detect, the app will tell you right away if the product contains them!
     fontawesome_icon_name                 : wheat-awn-circle-exclamation
 
@@ -45,7 +45,7 @@ features                                  :
     description                           : Youn found a product without allergens? You can put it in favorite, and even share it to other
     fontawesome_icon_name                 : heart
 
-  - title                                 : Work all around the world
+  - title                                 : Work All Around the World
     description                           : Can work all around the world - if the product is present in the database
     fontawesome_icon_name                 : globe
 
