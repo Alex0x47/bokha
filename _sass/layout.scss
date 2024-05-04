@@ -608,8 +608,9 @@ nav > ul li a:active {
 // Footer
 
 footer {
+  margin: auto;
 	grid-area: f;
-	display: flex;
+	// display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
 }
