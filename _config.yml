@@ -11,7 +11,7 @@ playstore_link                            : https://play.google.com/store/apps/d
 app_icon                                  : ./assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Bokha - Allergy Scanner App
 app_price                                 : Free Food Allergy Scanner App             # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Check products to find allergens in less than a second.
+app_description                           : The best app to scan food products and detect allergens & traces among 13 different allergens. # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 
 enable_smart_app_banner                   : false                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
