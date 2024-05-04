@@ -485,7 +485,7 @@ nav > ul li a:active {
 
 .feature {
 	display: flex;
-	padding-top: 63px;
+	// padding-top: 63px;
 	padding-left: 15px;
 	padding-right: 15px;
 	width: calc(100%/3);
@@ -685,4 +685,8 @@ footer {
 
 .hidden {
 	display: none;
+}
+
+.description-paragraph{
+  margin-bottom:20px;
 }
