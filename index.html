@@ -1,197 +1,213 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bokha - Allergy Scanner App</title>
-    <meta name="description" content="Bokha - Food Allergy Scanner App helps you scan product barcodes to detect allergens among 13 different allergens.">
-    <meta name="keywords" content="Bokha, Allergy Scanner, Food Allergies, Allergen Detection, Barcode Scanner, Product Scanner, Allergen Settings, Global Database">
-    <meta name="author" content="Alexandre Grisey">
-    <link rel="icon" href="./assets/appicon.png" type="image/png">
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-            font-family: 'Helvetica Neue', Arial, sans-serif;
-        }
-        
-        body {
-            background-color: #f8f9fa;
-            color: #333;
-            line-height: 1.6;
-            display: flex;
-            flex-direction: column;
-            min-height: 100vh;
-            padding: 0 20px;
-        }
-        
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 40px 20px;
-            text-align: center;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            flex: 1;
-        }
-        
-        .logo {
-            width: 120px;
-            height: 120px;
-            margin-bottom: 30px;
-            border-radius: 20px;
-            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-        }
-        
-        h1 {
-            font-size: 2.5rem;
-            color: #1d63ea;
-            margin-bottom: 20px;
-            font-weight: 700;
-        }
-        
-        p {
-            font-size: 1.2rem;
-            margin-bottom: 30px;
-            max-width: 600px;
-            color: #666;
-        }
-        
-        .redirect-btn {
-            display: inline-block;
-            background-color: #1d63ea;
-            color: white;
-            font-size: 1.1rem;
-            font-weight: 600;
-            padding: 14px 32px;
-            border-radius: 30px;
-            text-decoration: none;
-            transition: all 0.3s ease;
-            box-shadow: 0 4px 12px rgba(29, 99, 234, 0.3);
-            margin-bottom: 40px;
-        }
-        
-        .redirect-btn:hover {
-            background-color: #1755cc;
-            box-shadow: 0 6px 16px rgba(29, 99, 234, 0.4);
-            transform: translateY(-2px);
-        }
-        
-        .features {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            gap: 20px;
-            margin-top: 40px;
-        }
-        
-        .feature {
-            background-color: white;
-            padding: 25px;
-            border-radius: 12px;
-            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
-            max-width: 220px;
-            transition: all 0.3s ease;
-        }
-        
-        .feature:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
-        }
-        
-        .feature-icon {
-            font-size: 2rem;
-            color: #1d63ea;
-            margin-bottom: 15px;
-        }
-        
-        .feature h3 {
-            font-size: 1.1rem;
-            margin-bottom: 10px;
-            color: #333;
-        }
-        
-        .feature p {
-            font-size: 0.9rem;
-            color: #666;
-            margin-bottom: 0;
-        }
-        
-        footer {
-            text-align: center;
-            padding: 20px;
-            color: #888;
-            font-size: 0.9rem;
-        }
-        
-        @media (max-width: 768px) {
-            h1 {
-                font-size: 2rem;
-            }
-            
-            p {
-                font-size: 1rem;
-            }
-            
-            .features {
-                flex-direction: column;
-                align-items: center;
-            }
-            
-            .feature {
-                max-width: 100%;
-                width: 100%;
-            }
-        }
-    </style>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-</head>
-<body>
-    <div class="container">
-        <img src="./assets/appicon.png" alt="Bokha App Logo" class="logo">
-        <h1>Our Website Has Moved</h1>
-        <p>We've moved to a new address! Bokha - Food Allergy Scanner App helps you scan product barcodes to detect allergens among 13 different allergens.</p>
-        <a href="https://bokha.app?utm_source=ghredirect" class="redirect-btn">Go to our new site <i class="fas fa-arrow-right"></i></a>
-        
-        <div class="features">
-            <div class="feature">
-                <div class="feature-icon">
-                    <i class="fas fa-barcode"></i>
-                </div>
-                <h3>Product Scanner</h3>
-                <p>Scan barcodes to identify allergens in food products</p>
-            </div>
-            
-            <div class="feature">
-                <div class="feature-icon">
-                    <i class="fas fa-wheat-awn-circle-exclamation"></i>
-                </div>
-                <h3>Allergen Settings</h3>
-                <p>Set which allergens you want to detect in products</p>
-            </div>
-            
-            <div class="feature">
-                <div class="feature-icon">
-                    <i class="fas fa-globe"></i>
-                </div>
-                <h3>Global Database</h3>
-                <p>Works worldwide with products in our database</p>
-            </div>
-        </div>
-    </div>
-    
-    <footer>
-        &copy; 2025 Bokha App. All rights reserved.
-    </footer>
-    
-    <script>
-        // Redirect after 15 seconds if the user hasn't clicked the button
-        setTimeout(function() {
-            window.location.href = "https://bokha.app?utm_source=ghredirect";
-        }, 15000);
-    </script>
-</body>
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Bokha - Allergy Scanner App</title>
+		<meta
+			name="description"
+			content="Bokha - Food Allergy Scanner App helps you scan product barcodes to detect allergens among 13 different allergens."
+		/>
+		<meta
+			name="keywords"
+			content="Bokha, Allergy Scanner, Food Allergies, Allergen Detection, Barcode Scanner, Product Scanner, Allergen Settings, Global Database"
+		/>
+		<meta name="author" content="Alexandre Grisey" />
+
+		<meta http-equiv="refresh" content="0; url=https://bokha.app" />
+		<link rel="canonical" href="https://bokha.app" />
+
+		<link rel="icon" href="./assets/appicon.png" type="image/png" />
+		<style>
+			* {
+				margin: 0;
+				padding: 0;
+				box-sizing: border-box;
+				font-family: "Helvetica Neue", Arial, sans-serif;
+			}
+
+			body {
+				background-color: #f8f9fa;
+				color: #333;
+				line-height: 1.6;
+				display: flex;
+				flex-direction: column;
+				min-height: 100vh;
+				padding: 0 20px;
+			}
+
+			.container {
+				max-width: 800px;
+				margin: 0 auto;
+				padding: 40px 20px;
+				text-align: center;
+				display: flex;
+				flex-direction: column;
+				align-items: center;
+				justify-content: center;
+				flex: 1;
+			}
+
+			.logo {
+				width: 120px;
+				height: 120px;
+				margin-bottom: 30px;
+				border-radius: 20px;
+				box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+			}
+
+			h1 {
+				font-size: 2.5rem;
+				color: #1d63ea;
+				margin-bottom: 20px;
+				font-weight: 700;
+			}
+
+			p {
+				font-size: 1.2rem;
+				margin-bottom: 30px;
+				max-width: 600px;
+				color: #666;
+			}
+
+			.redirect-btn {
+				display: inline-block;
+				background-color: #1d63ea;
+				color: white;
+				font-size: 1.1rem;
+				font-weight: 600;
+				padding: 14px 32px;
+				border-radius: 30px;
+				text-decoration: none;
+				transition: all 0.3s ease;
+				box-shadow: 0 4px 12px rgba(29, 99, 234, 0.3);
+				margin-bottom: 40px;
+			}
+
+			.redirect-btn:hover {
+				background-color: #1755cc;
+				box-shadow: 0 6px 16px rgba(29, 99, 234, 0.4);
+				transform: translateY(-2px);
+			}
+
+			.features {
+				display: flex;
+				flex-wrap: wrap;
+				justify-content: center;
+				gap: 20px;
+				margin-top: 40px;
+			}
+
+			.feature {
+				background-color: white;
+				padding: 25px;
+				border-radius: 12px;
+				box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+				max-width: 220px;
+				transition: all 0.3s ease;
+			}
+
+			.feature:hover {
+				transform: translateY(-5px);
+				box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+			}
+
+			.feature-icon {
+				font-size: 2rem;
+				color: #1d63ea;
+				margin-bottom: 15px;
+			}
+
+			.feature h3 {
+				font-size: 1.1rem;
+				margin-bottom: 10px;
+				color: #333;
+			}
+
+			.feature p {
+				font-size: 0.9rem;
+				color: #666;
+				margin-bottom: 0;
+			}
+
+			footer {
+				text-align: center;
+				padding: 20px;
+				color: #888;
+				font-size: 0.9rem;
+			}
+
+			@media (max-width: 768px) {
+				h1 {
+					font-size: 2rem;
+				}
+
+				p {
+					font-size: 1rem;
+				}
+
+				.features {
+					flex-direction: column;
+					align-items: center;
+				}
+
+				.feature {
+					max-width: 100%;
+					width: 100%;
+				}
+			}
+		</style>
+		<link
+			rel="stylesheet"
+			href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+		/>
+	</head>
+	<body>
+		<div class="container">
+			<img src="./assets/appicon.png" alt="Bokha App Logo" class="logo" />
+			<h1>Our Website Has Moved</h1>
+			<p>
+				We've moved to a new address! Bokha - Food Allergy Scanner App helps you
+				scan product barcodes to detect allergens among 13 different allergens.
+			</p>
+			<a href="https://bokha.app?utm_source=ghredirect" class="redirect-btn"
+				>Go to our new site <i class="fas fa-arrow-right"></i
+			></a>
+
+			<div class="features">
+				<div class="feature">
+					<div class="feature-icon">
+						<i class="fas fa-barcode"></i>
+					</div>
+					<h3>Product Scanner</h3>
+					<p>Scan barcodes to identify allergens in food products</p>
+				</div>
+
+				<div class="feature">
+					<div class="feature-icon">
+						<i class="fas fa-wheat-awn-circle-exclamation"></i>
+					</div>
+					<h3>Allergen Settings</h3>
+					<p>Set which allergens you want to detect in products</p>
+				</div>
+
+				<div class="feature">
+					<div class="feature-icon">
+						<i class="fas fa-globe"></i>
+					</div>
+					<h3>Global Database</h3>
+					<p>Works worldwide with products in our database</p>
+				</div>
+			</div>
+		</div>
+
+		<footer>&copy; 2025 Bokha App. All rights reserved.</footer>
+
+		<script>
+			// Redirect after 15 seconds if the user hasn't clicked the button
+			setTimeout(function () {
+				window.location.href = "https://bokha.app?utm_source=ghredirect";
+			}, 15000);
+		</script>
+	</body>
 </html>
